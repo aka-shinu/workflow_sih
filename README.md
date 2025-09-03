@@ -6,7 +6,6 @@
 
 
 
-Let me create the Mermaid diagrams using the proper format:
 
 ## 1. High-Level System Architecture
 
